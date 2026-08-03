@@ -198,14 +198,14 @@
                     
                     type: 'GET', 
                     dataType: 'json',
-
                     
+                 
                           
 
                     success: function(data){
                         Swal.close();
 
-                        
+                         
                           let inputLesp;
                             inputLesp = document.getElementById("lesp_number").value;
                            
@@ -222,12 +222,22 @@
 
                          
                           data = filteredLesp
-                          console.log(filteredLesp)
-                       
-                  
-                  
+                          
 
-                        if(data){
+                         if (!data ){
+                            Swal.fire({
+                                icon: 'error',
+                                title: 'No record found!',
+                                showConfirmButton: true
+                            }); 
+                          } 
+                       
+                        //const d = new Date(data.ExpiryDate);
+                          //console.log(d);
+                         // console.log(data);
+                         // console.log(filteredLesp)
+
+                        else if(new Date(data.ExpiryDate) > Date.now()){
                             Swal.fire({
                                 icon: 'success',
                                 title: 'License is Valid',
@@ -235,15 +245,20 @@
                                 showConfirmButton: true
 
                             });
-
                        
 
-                        }else if(!data){
+                        }else if(new Date(data.ExpiryDate) < Date.now()){
                             Swal.fire({
-                                icon: 'error',
-                                title: 'No record found!',
+                                icon: 'warning',
+                                title: '<span style="color:red">License Expired!</span>',
+                                html: 'Name: <b>'+data.fullname+'</b><br/>' +
+                                      'License Type: <b>'+data.licenseType+'</b><br/>' +
+                                      'Date Expiry: <span style="color:red"><b>'+data.ExpiryDate+'</b></span>',
                                 showConfirmButton: true
                             });
+
+                           
+                        
 
                         }
                     },
@@ -251,6 +266,7 @@
                     contentType: false,
                     processData: false,
                     error: function(jqXHR, textStatus, errorThrown){
+                        
                         console.log(jqXHR.responseText);
                     }
                 }) 
