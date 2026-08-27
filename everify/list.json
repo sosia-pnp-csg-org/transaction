@@ -196264,5 +196264,29 @@
     "licenseType": "SECURITY GUARD",
     "lesp_number": "NCR-202608000848 1993-03-31",
     "ExpiryDate": "August 26, 2031"
+  },
+  {
+    "fullname": "RE****Y TO**S PI***A ",
+    "licenseType": "SECURITY OFFICER",
+    "lesp_number": "R02-202608000798 2002-01-08",
+    "ExpiryDate": "August 25, 2031"
+  },
+  {
+    "fullname": "ME***N AT**E AG*****I ",
+    "licenseType": "SECURITY OFFICER",
+    "lesp_number": "R05-202608000799 2000-08-24",
+    "ExpiryDate": "August 25, 2031"
+  },
+  {
+    "fullname": "MA*********L AC**L GA*****O ",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "CAR-202608000800 2001-09-26",
+    "ExpiryDate": "August 25, 2031"
+  },
+  {
+    "fullname": "RO***D TA***A RE****O JR",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R02-202608000801 2002-05-17",
+    "ExpiryDate": "August 25, 2031"
   }
 ]
