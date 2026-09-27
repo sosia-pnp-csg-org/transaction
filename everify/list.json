@@ -198598,5 +198598,35 @@
     "licenseType": "SECURITY GUARD",
     "lesp_number": "R05-202609001275 1995-04-10",
     "ExpiryDate": "September 23, 2031"
+  },
+  {
+    "fullname": "AN**N SA****I TA****G ",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "BAR-202609001276 1999-06-17",
+    "ExpiryDate": "September 23, 2031"
+  },
+  {
+    "fullname": "JE***E MO****S CA*****A ",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R07-202609001527 1999-01-14",
+    "ExpiryDate": "September 25, 2031"
+  },
+  {
+    "fullname": "JE***E FE*****O SA***D ",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "CAR-202609001528 1987-12-22",
+    "ExpiryDate": "September 25, 2031"
+  },
+  {
+    "fullname": "AL***N BA*****G GA***R ",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R08-202609001529 2007-02-18",
+    "ExpiryDate": "September 25, 2031"
+  },
+  {
+    "fullname": "TI*O SU**Y SA**O JR",
+    "licenseType": "BANK & ARMOR GUARD",
+    "lesp_number": "R07-202609001277 1997-08-07",
+    "ExpiryDate": "September 18, 2031"
   }
 ]
