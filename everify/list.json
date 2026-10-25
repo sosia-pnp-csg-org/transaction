@@ -199855,7 +199855,7 @@
   },
   {
     "fullname": "ER**N PA**L TA***N ",
-    "licenseType": "SECURITY GUARD",
+    "licenseType": "BANK & ARMOR GUARD",
     "lesp_number": "R08-202610000543 2003-09-15",
     "ExpiryDate": "October 12, 2031"
   },
@@ -200410,5 +200410,23 @@
     "licenseType": "BANK & ARMOR GUARD",
     "lesp_number": "R07-202610000989 1994-10-23",
     "ExpiryDate": "October 20, 2031"
+  },
+  {
+    "fullname": "JAY LL***S DI**N ",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R02-202610001082 1989-02-28",
+    "ExpiryDate": "October 22, 2031"
+  },
+  {
+    "fullname": "WI****L DU***E ES******N ",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R02-202610001083 1993-12-05",
+    "ExpiryDate": "October 22, 2031"
+  },
+  {
+    "fullname": "MA******N TH**M MA*****G ",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R02-202610001084 2005-05-28",
+    "ExpiryDate": "October 22, 2031"
   }
 ]
