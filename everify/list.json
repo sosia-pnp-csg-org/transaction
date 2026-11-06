@@ -200908,5 +200908,35 @@
     "licenseType": "SECURITY OFFICER",
     "lesp_number": "R06-202611000115 1973-08-14",
     "ExpiryDate": "November 04, 2031"
+  },
+  {
+    "fullname": "CH*******R CE**S BA*****N",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R10-202611000116 1998-07-14",
+    "ExpiryDate": "November 04, 2031"
+  },
+  {
+    "fullname": "EL**R RO*O PA*****R",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R09-202611000117 1973-03-02",
+    "ExpiryDate": "November 04, 2031"
+  },
+  {
+    "fullname": "GE****O JO**L CA*****A",
+    "licenseType": "SECURITY OFFICER",
+    "lesp_number": "R10-202611000118 1963-01-15",
+    "ExpiryDate": "November 04, 2031"
+  },
+  {
+    "fullname": "DI*****O OM***E AR******O JR",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R09-202611000119 1963-10-23",
+    "ExpiryDate": "November 04, 2031"
+  },
+  {
+    "fullname": "ES***L SU**N OM*N",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "BAR-202611000120 1992-09-03",
+    "ExpiryDate": "November 04, 2031"
   }
 ]
