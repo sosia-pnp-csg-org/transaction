@@ -1,0 +1,229 @@
+ :root {
+            --sosia-primary: #1a5f9e;
+            --sosia-primary-dark: #134a7c;
+            --sosia-accent: #2e8bc0;
+            --sosia-success: #1ab394;
+            --sosia-bg: #eef2f7;
+            --sosia-card-shadow: 0 12px 40px rgba(26, 95, 158, 0.12);
+            --sosia-radius: 12px;
+        }
+
+        body.verify-id-page {
+            background: var(--sosia-bg);
+            font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+            min-height: 100vh;
+        }
+
+        .verify-header {
+            background: linear-gradient(135deg, var(--sosia-primary-dark) 0%, var(--sosia-primary) 50%, var(--sosia-accent) 100%);
+            color: #fff;
+            padding: 28px 0 32px;
+            margin-bottom: 0;
+            border: none;
+            box-shadow: 0 4px 20px rgba(19, 74, 124, 0.25);
+        }
+
+        .verify-header h1 {
+            margin: 0 0 6px;
+            font-size: 1.75rem;
+            font-weight: 700;
+            letter-spacing: 0.02em;
+        }
+
+        .verify-header .subtitle {
+            margin: 0;
+            font-size: 0.95rem;
+            opacity: 0.9;
+            font-weight: 400;
+        }
+
+        .verify-page-wrap {
+            max-width: 920px;
+            margin: -24px auto 48px;
+            padding: 0 16px;
+        }
+
+        .id-card {
+            background: #fff;
+            border-radius: var(--sosia-radius);
+            box-shadow: var(--sosia-card-shadow);
+            overflow: hidden;
+            border: 1px solid rgba(26, 95, 158, 0.08);
+        }
+
+        .id-card__banner {
+            background: linear-gradient(90deg, var(--sosia-primary) 0%, var(--sosia-accent) 100%);
+            color: #fff;
+            padding: 16px 24px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .id-card__banner .badge-verified {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin: 0;
+        }
+
+        .id-card__banner .badge-verified i {
+            background: rgba(255, 255, 255, 0.2);
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+        }
+
+        .id-card__body {
+            padding: 28px 28px 32px;
+        }
+
+        .id-photo-wrap {
+            position: relative;
+            border-radius: 10px;
+            overflow: hidden;
+            background: linear-gradient(145deg, #e8eef5 0%, #d4dde8 100%);
+            box-shadow: inset 0 0 0 1px rgba(26, 95, 158, 0.12);
+            aspect-ratio: 4 / 5;
+            max-height: 340px;
+        }
+
+        .id-photo-wrap img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center top;
+            display: block;
+        }
+
+        .id-photo-wrap::after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 40%;
+            background: linear-gradient(to top, rgba(26, 95, 158, 0.15), transparent);
+            pointer-events: none;
+        }
+
+        .id-field {
+            margin-bottom: 20px;
+        }
+
+        .id-field:last-child {
+            margin-bottom: 0;
+        }
+
+        .id-field__label {
+            display: block;
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #8898a8;
+            margin-bottom: 4px;
+        }
+
+        .id-field__value {
+            margin: 0;
+            font-weight: 600;
+            color: #2c3e50;
+            line-height: 1.35;
+        }
+
+        .id-field__value--name {
+            font-size: 1.45rem;
+            color: var(--sosia-primary-dark);
+            line-height: 1.25;
+        }
+
+        .id-field__value--category {
+            font-size: 1.05rem;
+            color: var(--sosia-accent);
+        }
+
+        .id-field__value--license {
+            font-size: 1.2rem;
+            font-family: "Consolas", "Courier New", monospace;
+            letter-spacing: 0.04em;
+            color: var(--sosia-primary);
+        }
+
+        .id-field__value--old-license {
+            font-size: 0.9rem;
+            color: #95a5a6;
+            font-weight: 500;
+            margin-bottom: 2px;
+        }
+
+        .id-meta-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px 24px;
+            margin-top: 8px;
+            padding-top: 20px;
+            border-top: 1px solid #eef2f6;
+        }
+
+        .id-meta-grid .id-field {
+            margin-bottom: 0;
+        }
+
+        .id-field__value--address {
+            font-size: 0.95rem;
+            font-weight: 500;
+            color: #4a5f73;
+            line-height: 1.5;
+        }
+
+        .id-field--address {
+            grid-column: 1 / -1;
+        }
+
+        @media (max-width: 991px) {
+            .id-card__body {
+                padding: 20px;
+            }
+
+            .id-photo-wrap {
+                max-height: 280px;
+                margin-bottom: 24px;
+            }
+
+            .id-meta-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .verify-header h1 {
+                font-size: 1.35rem;
+            }
+
+            .id-field__value--name {
+                font-size: 1.2rem;
+            }
+        }
+
+        #verifyModal .modal-header {
+            background: var(--sosia-primary);
+            color: #fff;
+            border-radius: 6px 6px 0 0;
+        }
+
+        #verifyModal .modal-header .close {
+            color: #fff;
+            opacity: 0.85;
+        }
+
+        #verifyModal .btn-primary {
+            background: var(--sosia-primary);
+            border-color: var(--sosia-primary-dark);
+        }
