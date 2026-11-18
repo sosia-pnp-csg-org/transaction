@@ -201622,5 +201622,29 @@
     "licenseType": "SECURITY GUARD",
     "lesp_number": "R09-202611000482 1983-11-14",
     "ExpiryDate": "November 12, 2031"
+  },
+  {
+    "fullname": "JE*********K DU*A FU****S",
+    "licenseType": "SECURITY OFFICER",
+    "lesp_number": "R12-202611000382 2002-03-17",
+    "ExpiryDate": "November 11, 2031"
+  },
+  {
+    "fullname": "JO******Y AV****O TE***N",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R11-202611000383 1994-01-06",
+    "ExpiryDate": "November 11, 2031"
+  },
+  {
+    "fullname": "MO*****D OSI AK**D",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "BAR-202611000384 1990-05-21",
+    "ExpiryDate": "November 11, 2031"
+  },
+  {
+    "fullname": "JA****Y DU*A NA******D",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000385 2005-12-06",
+    "ExpiryDate": "November 11, 2031"
   }
 ]
