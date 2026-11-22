@@ -199363,7 +199363,7 @@
   },
   {
     "fullname": "RO**Y GA***Z NA****G",
-    "licenseType": "SECURITY GUARD",
+    "licenseType": "SECURITY OFFICER",
     "lesp_number": "R01-202610000411 1998-05-28",
     "ExpiryDate": "October 09, 2031"
   },
@@ -201646,5 +201646,299 @@
     "licenseType": "SECURITY GUARD",
     "lesp_number": "R12-202611000385 2005-12-06",
     "ExpiryDate": "November 11, 2031"
+  },
+  {
+    "fullname": "RU*L IH**G BO******S",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R08-202611000483 2000-09-22",
+    "ExpiryDate": "November 12, 2031"
+  },
+  {
+    "fullname": "ER**N LE*****O CA*****A",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R03-202611000788 1976-03-13",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "AL***N LA*****S LA***O",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R03-202611000789 1994-02-12",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JE***N FA*****N CA*A",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000790 1998-09-08",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "ME***N FA*****N HI***A",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000791 2003-08-08",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JO**L LO****O NI***S",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000792 1985-03-25",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "ST****N FU*****N CA***A",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000793 1987-09-14",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "RI******N SU**O PL****G",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000794 2006-04-13",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JU***S KA******N SU*********O",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000795 2004-07-12",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "NE****D ZO**O RO*E",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000796 1998-09-09",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JE**L MA****O EL***O",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000797 1986-01-21",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JO*L GA**T PA*****Y",
+    "licenseType": "SECURITY OFFICER",
+    "lesp_number": "R08-202611000798 1987-07-03",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "VE***E AM*****O ES***N",
+    "licenseType": "BANK & ARMOR GUARD",
+    "lesp_number": "R06-202611000799 1997-08-27",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "MA*********Y BE****E VI*******A",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "BAR-202611000800 1982-10-28",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "GA***N TO*****O CA**O",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000801 1988-09-11",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "GI****T GO****N PL***O",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000802 1981-12-13",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JA***N LA*I EL**S",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000803 2001-08-22",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "RO**L NE*I PR********A",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000804 2004-02-13",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "RO***D GU***G FA*O",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000805 1991-11-25",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "AF****O GA***Y SA***G",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000806 2008-04-01",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "LE*****O TA****C VI*****R JR",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000807 1996-01-14",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JO******L RA**S MA******A",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000808 2002-01-17",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "MA*****L PA****A VA***S",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R03-202611000809 1983-03-29",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "AP*******E CA******L DO****O",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000810 1992-04-26",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "RO*********T AC**E AN***O",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R09-202611000811 2001-04-16",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "VI******N RA**S GU******Z",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R03-202611000812 2006-04-20",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "MA*K AN***O RA**S",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R03-202611000813 2002-05-31",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "LU*******R AN**N UN**Y",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R06-202611000814 1977-01-14",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "CH***********L CA***O CO****A",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R12-202611000815 2001-10-07",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "HA***D BA**T BU***N",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "BAR-202611000816 2005-12-26",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "RA******E NMN AN****O",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "NCR-202611000817 2003-12-16",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "RU*L YU***G DU****G",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R01-202611000818 1981-12-11",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "MA*****Y AB***O BA***I",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R10-202611000819 2006-03-03",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "HE***N MA******A SA****O",
+    "licenseType": "SECURITY OFFICER",
+    "lesp_number": "R12-202611000820 1976-12-22",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "AM*E RE****O TU***L",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R4A-202611000821 1993-08-27",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "AB**********N BA***D CA*****G",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R4A-202611000822 2006-11-02",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "HA***I TO***O AT***N",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "BAR-202611000823 2003-05-08",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "OT**A SA**Y ME****A",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R13-202611000824 1965-04-11",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "MA***N RA**S PA****L",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R4A-202611000825 1993-04-28",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "LE***L SO****O FL***S",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R06-202611000826 1983-10-24",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "REY FA******G DE******A",
+    "licenseType": "BANK & ARMOR GUARD",
+    "lesp_number": "R06-202611000827 1980-05-11",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JE***L PE*****N BI****N",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R06-202611000828 1988-10-22",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "KE**N ES****A AU****A",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "NCR-202611000829 2007-03-27",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JE****Y AR****N AM*N",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R02-202611000830 1985-10-12",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JA***N ES*****U MA*****N",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R02-202611000831 2002-09-05",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "SH****A BA*****A BU*****M",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "BAR-202611000832 1979-05-18",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JI**Y PO******S DE**A",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R08-202611000833 1994-01-10",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "AR**E ME****A ES*****A",
+    "licenseType": "BANK & ARMOR GUARD",
+    "lesp_number": "R08-202611000834 1990-02-25",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JU***O CU*******Z SI***L",
+    "licenseType": "SECURITY GUARD",
+    "lesp_number": "R08-202611000835 1983-04-15",
+    "ExpiryDate": "November 20, 2031"
   }
 ]
