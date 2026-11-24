@@ -201925,7 +201925,7 @@
   },
   {
     "fullname": "JI**Y PO******S DE**A",
-    "licenseType": "SECURITY GUARD",
+    "licenseType": "BANK & ARMOR GUARD",
     "lesp_number": "R08-202611000833 1994-01-10",
     "ExpiryDate": "November 20, 2031"
   },
@@ -201937,8 +201937,14 @@
   },
   {
     "fullname": "JU***O CU*******Z SI***L",
-    "licenseType": "SECURITY GUARD",
+    "licenseType": "BANK & ARMOR GUARD",
     "lesp_number": "R08-202611000835 1983-04-15",
+    "ExpiryDate": "November 20, 2031"
+  },
+  {
+    "fullname": "JA**N PI****N PIA",
+    "licenseType": "SECURITY OFFICER",
+    "lesp_number": "R08-202611000836 1994-05-04",
     "ExpiryDate": "November 20, 2031"
   }
 ]
